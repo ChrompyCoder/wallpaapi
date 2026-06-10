@@ -4,6 +4,8 @@ Turn a folder (or several) of photos into a cozy collage wallpaper.
 
 ![templates](https://img.shields.io/badge/templates-burst%20%C2%B7%20mosaic%20%C2%B7%20shape-c4a7e7)
 
+<img width="1389" height="961" alt="image" src="https://github.com/user-attachments/assets/80d0dd25-41eb-452f-b599-5e1555e6aa1f" />
+
 ## Run
 
 ```sh
@@ -45,3 +47,5 @@ uvicorn app.main:app --reload --port 8000
 # frontend (proxies /api to :8000)
 cd frontend && npm install && npm run dev
 ```
+
+Built with AI, use with caution. The images used in the illustrations are of creative commons license.
